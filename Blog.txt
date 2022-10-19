@@ -1,0 +1,7 @@
+Blog
+-----------------
+Cabecera
+
+Seccion que muestra las entradas creadas
+
+Pie de Pagina
