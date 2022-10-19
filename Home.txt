@@ -1,0 +1,17 @@
+Pagina principal de una aplicacion web
+
+principal
+
+Menu de opciones
+
+servicios con tres tarjetas
+
+contactos
+
+llamada a una accion
+
+pie de pagina
+
+logo
+
+buscar
