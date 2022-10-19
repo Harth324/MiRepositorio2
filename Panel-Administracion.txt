@@ -1,0 +1,9 @@
+Panel
+-------------
+Cabecera
+Logo
+Opciones de perfil
+Salir
+Barra de opciones lateral
+Informacion de productos
+Pie de pagina personalizado
