@@ -10,6 +10,8 @@ contactos
 
 llamada a una accion
 
+Mostrar los logos de los auspiciadores
+
 pie de pagina
 
 logo
